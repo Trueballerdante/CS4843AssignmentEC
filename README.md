@@ -29,5 +29,12 @@ Deploy a python web application an a kubernetes cluster.
 - 6.) Access website
     - Type the External endpoint as the url
 
-![Cloud Infrastructure](cloudInfrastructure.png)
+Overview:
+![cluster overview](overview.png)
+
+Details:
+![cluster details](details.png)
+
+Webpage:
+![webpage](webpage.png)
 
