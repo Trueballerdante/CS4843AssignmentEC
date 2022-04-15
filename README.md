@@ -2,9 +2,8 @@
 ## Description:
 Deploy a python web application an a kubernetes cluster.
 ### Technologies Used:
-- Google Cloud Platform(GCP): Used to deploy the kubernetes cluster
+- Google Cloud Platform(GCP): Used to deploy the kubernetes cluster and store container image
 - python: Used to write a web application with flask.
-- Docker: Used to create a docker image.
 
 ### Deployment Steps:
 - 1.) Use gcloud to build the container image and push it to the Google Cloud Registry. Command: gcloud builds submit --tag gcr.io/Your Project Name/assignment3 .
